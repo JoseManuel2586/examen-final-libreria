@@ -1,0 +1,24 @@
+{
+  "name": "examen-final-libreria",
+  "version": "1.0.0",
+  "description": "examen parcial II",
+  "main": "examen-final-libreria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseManuel2586/examen-final-libreria.git"
+  },
+  "author": "Jose Manuel Lopez Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseManuel2586/examen-final-libreria/issues"
+  },
+  "homepage": "https://github.com/JoseManuel2586/examen-final-libreria#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.5.2",
+    "readline-sync": "^1.4.10"
+  }
+}
